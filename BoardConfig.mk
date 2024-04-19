@@ -157,3 +157,6 @@ TW_OVERRIDE_SYSTEM_PROPS := \
 # TWRP Debug Flags
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
+
+# TWRP Configs
+TW_DEVICE_VERSION := by-ghostsp
